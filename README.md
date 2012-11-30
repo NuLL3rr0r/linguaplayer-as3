@@ -33,6 +33,9 @@ This application won the title 'Best Utility App for Samsung Smart TVs' during t
 
 I may someday write the cross-platform C++ version to run on major PC and mobile platforms with extra features that I have in mind. Unfortunately, implementing those features in ActionScript seems virtually mpossible.
 
+
+## Screenshots on PC
+
 ![LinguaPlayer on PC](/Screenshots/lingua_pc_001.jpg?raw=true "LinguaPlayer on PC")
 
 ![LinguaPlayer on PC](/Screenshots/lingua_pc_002.jpg?raw=true "LinguaPlayer on PC")
@@ -40,6 +43,9 @@ I may someday write the cross-platform C++ version to run on major PC and mobile
 ![LinguaPlayer on PC](/Screenshots/lingua_pc_003.jpg?raw=true "LinguaPlayer on PC")
 
 ![LinguaPlayer on PC](/Screenshots/lingua_pc_004.jpg?raw=true "LinguaPlayer on PC")
+
+
+## Screenshots on SAMSUNG Smart TVs
 
 ![LinguaPlayer on TV](/Screenshots/lingua_tv_001.png?raw=true "LinguaPlayer on TV")
 
